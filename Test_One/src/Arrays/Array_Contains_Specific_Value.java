@@ -23,6 +23,7 @@ public class Array_Contains_Specific_Value
 		          
 		      System.out.println(contains(my_array1, 2013));
 		      System.out.println(contains(my_array1, 2015));
+			   System.out.println(contains(my_array1, 2020));
 		   }
 		   
 	   }
